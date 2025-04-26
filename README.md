@@ -4,7 +4,7 @@
 ☁️ I work with **Cloud & DevOps**: **AWS**, **Azure**, **GCP** 
 🕶️ I work with **AR/VR Technologies**: **WebXR**, **Three.js** 
 🎓 MS in Information Systems – *Marist University*  
-🌐 [**Portfolio Website**](https://chandu-864.github.io)
+🌐 [**Portfolio Website**](https://chandu-864.github.io/Chandu_Portfolio/)
 
 ---
 
@@ -23,6 +23,6 @@ I'm a passionate engineer with **4+ years** of experience crafting full-stack ap
 ## 📫 **Let's Connect**
 
 📍 Poughkeepsie, NY • 💼 Open to new roles  
-🔗 [**LinkedIn**](https://linkedin.com/in/chandu-thalati)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/chandu-thalati-268839267/)
 
 ---
