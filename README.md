@@ -1,0 +1,37 @@
+# 👋 Hi there, I'm Chandu Thalati (He/Him)
+
+🎯 **Full-Stack Software Engineer** | React.js, Node.js, TypeScript  
+☁️ **Cloud & DevOps Enthusiast** | AWS, Azure, GCP  
+🕶️ **AR/VR Developer** | WebXR, Three.js  
+🎓 MS in Information Systems – *Marist University*  
+🌐 [View My Portfolio](https://chandu-864.github.io)
+
+---
+
+## 🚀 About Me
+
+I’m a passionate software engineer with over 4 years of experience building responsive full-stack applications and immersive AR experiences. From real-time intern portals to scalable e-commerce platforms and cutting-edge AR shopping solutions, I love solving real-world problems with clean, efficient code.
+
+- 💻 Tech Stack: React.js, Node.js, TypeScript, MongoDB, PostgreSQL, Firebase, Docker, Kubernetes  
+- ✨ Frontend: Tailwind CSS, Material UI, Framer Motion, Redux Toolkit  
+- 🔧 Backend: Express.js, REST APIs, Redis, Authentication Systems  
+- 🌍 Cloud & DevOps: AWS (S3, Lambda), Azure Functions, GCP, Jenkins  
+- 🔭 AR/VR Integration: Three.js, WebXR, react-three-fiber  
+
+---
+
+## 🧠 What I'm Working On
+
+- Building scalable AR-based e-commerce platforms at **Panasonic**
+- Creating smooth user interfaces with React, Framer Motion, and Tailwind
+- Exploring AI and emerging technologies through certifications and hands-on projects
+
+---
+
+## 📫 Let's Connect!
+
+- 📍 Based in Poughkeepsie, NY, USA  
+- 💼 Open to opportunities: Software Engineer, Frontend Developer, IT Analyst  
+- 🔗 [LinkedIn](https://linkedin.com/in/chandu-thalati)
+
+---
