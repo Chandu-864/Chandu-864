@@ -6,8 +6,6 @@
 🎓 MS in Information Systems – *Marist University*  
 🌐 [**Portfolio Website**](https://chandu-864.github.io/Chandu_Portfolio/)
 
----
-
 ## 🚀 **About Me**
 
 I'm a passionate engineer with **4+ years** of experience crafting full-stack apps and immersive **AR/VR solutions**. I love solving real-world problems with clean, scalable code.
@@ -17,8 +15,6 @@ I'm a passionate engineer with **4+ years** of experience crafting full-stack ap
 - 🔧 **Backend:** Express, Redis, REST APIs  
 - ☁️ **Cloud:** AWS (Lambda, S3), Azure, GCP, Jenkins  
 - 🕶️ **AR/VR:** Three.js, WebXR, react-three-fiber  
-
----
 
 ## 📫 **Let's Connect**
 
