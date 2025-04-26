@@ -1,37 +1,28 @@
-# 👋 Hi there, I'm Chandu Thalati (He/Him)
+# 👋 Hi, I'm **Chandu Thalati**
 
-🎯 **Full-Stack Software Engineer** | React.js, Node.js, TypeScript  
-☁️ **Cloud & DevOps Enthusiast** | AWS, Azure, GCP  
-🕶️ **AR/VR Developer** | WebXR, Three.js  
+💻 I work with **Full-Stack Technologies**: **React.js**, **Node.js**, **TypeScript**  
+☁️ I work with **Cloud & DevOps**: **AWS** ![aws](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white), **Azure** ![azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white), **GCP** ![gcp](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)  
+🕶️ I work with **AR/VR Technologies**: **WebXR**, **Three.js** ![threejs](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)  
 🎓 MS in Information Systems – *Marist University*  
-🌐 [View My Portfolio](https://chandu-864.github.io)
+🌐 [**Portfolio Website**](https://chandu-864.github.io)
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
-I’m a passionate software engineer with over 4 years of experience building responsive full-stack applications and immersive AR experiences. From real-time intern portals to scalable e-commerce platforms and cutting-edge AR shopping solutions, I love solving real-world problems with clean, efficient code.
+I'm a passionate engineer with **4+ years** of experience crafting full-stack apps and immersive **AR/VR solutions**. I love solving real-world problems with clean, scalable code.
 
-- 💻 Tech Stack: React.js, Node.js, TypeScript, MongoDB, PostgreSQL, Firebase, Docker, Kubernetes  
-- ✨ Frontend: Tailwind CSS, Material UI, Framer Motion, Redux Toolkit  
-- 🔧 Backend: Express.js, REST APIs, Redis, Authentication Systems  
-- 🌍 Cloud & DevOps: AWS (S3, Lambda), Azure Functions, GCP, Jenkins  
-- 🔭 AR/VR Integration: Three.js, WebXR, react-three-fiber  
-
----
-
-## 🧠 What I'm Working On
-
-- Building scalable AR-based e-commerce platforms at **Panasonic**
-- Creating smooth user interfaces with React, Framer Motion, and Tailwind
-- Exploring AI and emerging technologies through certifications and hands-on projects
+- 💻 **Tech:** React, Node, TypeScript, MongoDB, PostgreSQL, Docker  
+- 🎨 **Frontend:** Tailwind CSS, MUI, Framer Motion  
+- 🔧 **Backend:** Express, Redis, REST APIs  
+- ☁️ **Cloud:** AWS (Lambda, S3), Azure, GCP, Jenkins  
+- 🕶️ **AR/VR:** Three.js, WebXR, react-three-fiber  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 **Let's Connect**
 
-- 📍 Based in Poughkeepsie, NY, USA  
-- 💼 Open to opportunities: Software Engineer, Frontend Developer, IT Analyst  
-- 🔗 [LinkedIn](https://linkedin.com/in/chandu-thalati)
+📍 Poughkeepsie, NY • 💼 Open to new roles  
+🔗 [**LinkedIn**](https://linkedin.com/in/chandu-thalati)
 
 ---
