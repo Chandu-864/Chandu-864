@@ -1,21 +1,29 @@
-# 👋 Hey there, I'm **Chandu Thalati**
+<div align="center" style="background-color:#f9f9f9; padding: 30px; border-radius: 12px;">
 
-💻 A frontend-first full-stack developer who loves building web apps with **React**, **TypeScript**, and **Node.js**.  
-☁️ I also dive into **cloud platforms** like **AWS**, **Azure**, and **GCP**.  
-🕶️ Exploring **WebXR** and **Three.js** to bring 3D and AR experiences to the browser.  
-🎓 Master's in Information Systems – *Marist University*  
-🌐 [**Check out my portfolio**](https://chandu-864.github.io/Chandu_Portfolio/)
+# 👋 Hey there, I'm <strong>Chandu Thalati</strong>
 
-## 🚀 **What I Do**
+💻 A frontend-first full-stack developer who loves building web apps with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong>.  
+☁️ I also dive into <strong>cloud platforms</strong> like <strong>AWS</strong>, <strong>Azure</strong>, and <strong>GCP</strong>.  
+🕶️ Exploring <strong>WebXR</strong> and <strong>Three.js</strong> to bring 3D and AR experiences to the browser.  
+🎓 Master's in Information Systems – <em>Marist University</em>  
+🌐 <a href="https://chandu-864.github.io/Chandu_Portfolio/"><strong>Check out my portfolio</strong></a>
+
+---
+
+## 🚀 <strong>What I Do</strong>
 
 I focus on building clean, performant, and interactive user interfaces — backed by scalable APIs and cloud services.
 
-- **Frontend:** React, Tailwind, MUI, Framer Motion  
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL  
-- **Cloud & DevOps:** AWS (Lambda, S3), Azure, GCP, Docker, Jenkins  
-- **AR/VR:** Three.js, WebXR, react-three-fiber  
+- <strong>Frontend:</strong> React, Tailwind, MUI, Framer Motion  
+- <strong>Backend:</strong> Node.js, Express, MongoDB, PostgreSQL  
+- <strong>Cloud & DevOps:</strong> AWS (Lambda, S3), Azure, GCP, Docker, Jenkins  
+- <strong>AR/VR:</strong> Three.js, WebXR, react-three-fiber
 
-## 📫 **Let’s Connect**
+---
+
+## 📫 <strong>Let’s Connect</strong>
 
 📍 Poughkeepsie, NY • 💼 Open to frontend/full-stack roles  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/chandu-thalati-268839267/)
+🔗 <a href="https://www.linkedin.com/in/chandu-thalati-268839267/"><strong>LinkedIn</strong></a>
+
+</div>
