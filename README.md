@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Chandu Thalati**
 
 💻 I work with **Full-Stack Technologies**: **React.js**, **Node.js**, **TypeScript**  
-☁️ I work with **Cloud & DevOps**: **AWS** ![aws](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white), **Azure** ![azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white), **GCP** ![gcp](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)  
-🕶️ I work with **AR/VR Technologies**: **WebXR**, **Three.js** ![threejs](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)  
+☁️ I work with **Cloud & DevOps**: **AWS**, **Azure**, **GCP** 
+🕶️ I work with **AR/VR Technologies**: **WebXR**, **Three.js** 
 🎓 MS in Information Systems – *Marist University*  
 🌐 [**Portfolio Website**](https://chandu-864.github.io)
 
