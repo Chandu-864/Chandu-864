@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Chandu Thalati**
 
-💻 A frontend-first full-stack developer who loves building web apps with **React**, **TypeScript**, and **Node.js**.  
+💻 A frontend-first full-stack developer who loves building web apps with **React**, **Javascript, **TypeScript**, and **Node.js**.  
 ☁️ I also dive into **cloud platforms** like **AWS**, **Azure**, and **GCP**.  
 🕶️ Exploring **WebXR** and **Three.js** to bring 3D and AR experiences to the browser.  
 🎓 Master's in Information Systems – *Marist University*  
