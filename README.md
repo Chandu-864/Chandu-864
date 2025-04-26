@@ -1,24 +1,26 @@
 # 👋 Hi, I'm **Chandu Thalati**
 
-💻 I work with **Full-Stack Technologies**: **React.js**, **Node.js**, **TypeScript**  
-☁️ I work with **Cloud & DevOps**: **AWS**, **Azure**, **GCP** 
-🕶️ I work with **AR/VR Technologies**: **WebXR**, **Three.js** 
-🎓 MS in Information Systems – *Marist University*  
-🌐 [**Portfolio Website**](https://chandu-864.github.io/Chandu_Portfolio/)
+💻 **Frontend-Focused Full-Stack Developer** specializing in **React.js**, **Node.js**, and **TypeScript**  
+☁️ Experienced with **Cloud & DevOps**: **AWS**, **Azure**, **GCP**  
+🕶️ Building immersive web experiences using **WebXR** and **Three.js**  
+🎓 Master’s in Information Systems – *Marist University*  
+🌐 [**Visit My Portfolio**](https://chandu-864.github.io/Chandu_Portfolio/)
+
+---
 
 ## 🚀 **About Me**
 
-I'm a passionate engineer with **4+ years** of experience crafting full-stack apps and immersive **AR/VR solutions**. I love solving real-world problems with clean, scalable code.
+I’m a passionate software engineer with over **4 years** of experience building elegant user interfaces and scalable full-stack applications. Whether it’s developing interactive UIs or integrating cloud services, I bring a balance of design and performance to every project.
 
-- 💻 **Tech:** React, Node, TypeScript, MongoDB, PostgreSQL, Docker  
-- 🎨 **Frontend:** Tailwind CSS, MUI, Framer Motion  
-- 🔧 **Backend:** Express, Redis, REST APIs  
-- ☁️ **Cloud:** AWS (Lambda, S3), Azure, GCP, Jenkins  
-- 🕶️ **AR/VR:** Three.js, WebXR, react-three-fiber  
-
-## 📫 **Let's Connect**
-
-📍 Poughkeepsie, NY • 💼 Open to new roles  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/chandu-thalati-268839267/)
+- 💻 **Languages & Frameworks:** React, Node, TypeScript, MongoDB, PostgreSQL, Docker  
+- 🎨 **UI/UX:** Tailwind CSS, Material UI, Framer Motion  
+- 🔧 **Backend & APIs:** Express.js, RESTful APIs, Redis  
+- ☁️ **Cloud & CI/CD:** AWS (Lambda, S3), Azure, GCP, Jenkins  
+- 🕶️ **AR/VR Development:** Three.js, WebXR, react-three-fiber  
 
 ---
+
+## 📫 **Let’s Connect**
+
+📍 Based in Poughkeepsie, NY • 💼 Open to new frontend or full-stack roles  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/chandu-thalati-268839267/)
