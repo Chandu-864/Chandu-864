@@ -17,5 +17,5 @@ I focus on building clean, performant, and interactive user interfaces — backe
 
 ## 📫 **Let’s Connect**
 
-📍 Poughkeepsie, NY • 💼 Open to frontend/full-stack roles  
+📍 Poughkeepsie, NY **• 💼 Open to frontend/full-stack roles  **
 🔗 [**LinkedIn**](https://www.linkedin.com/in/chandu-thalati-268839267/)
