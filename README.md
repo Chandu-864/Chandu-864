@@ -6,8 +6,6 @@
 🎓 Master’s in Information Systems – *Marist University*  
 🌐 [**Visit My Portfolio**](https://chandu-864.github.io/Chandu_Portfolio/)
 
----
-
 ## 🚀 **About Me**
 
 I’m a passionate software engineer with over **4 years** of experience building elegant user interfaces and scalable full-stack applications. Whether it’s developing interactive UIs or integrating cloud services, I bring a balance of design and performance to every project.
@@ -17,8 +15,6 @@ I’m a passionate software engineer with over **4 years** of experience buildin
 - 🔧 **Backend & APIs:** Express.js, RESTful APIs, Redis  
 - ☁️ **Cloud & CI/CD:** AWS (Lambda, S3), Azure, GCP, Jenkins  
 - 🕶️ **AR/VR Development:** Three.js, WebXR, react-three-fiber  
-
----
 
 ## 📫 **Let’s Connect**
 
